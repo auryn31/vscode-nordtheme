@@ -1,6 +1,7 @@
 {
-  "name": "nordtheme",
-  "displayName": "nordtheme",
+  "name": "nord-theme-auryn",
+  "publisher": "auryn",
+  "displayName": "Nord Theme by Auryn",
   "description": "ColorTheme for vs code with nordtheme colors",
   "version": "0.0.1",
   "engines": {
