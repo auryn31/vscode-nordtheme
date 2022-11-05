@@ -1,0 +1,21 @@
+{
+  "name": "nordtheme",
+  "displayName": "nordtheme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "auryn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nordtheme-color-theme.json"
+      }
+    ]
+  }
+}
