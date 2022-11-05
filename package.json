@@ -1,7 +1,7 @@
 {
   "name": "nordtheme",
   "displayName": "nordtheme",
-  "description": "",
+  "description": "ColorTheme for vs code with nordtheme colors",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.73.0"
