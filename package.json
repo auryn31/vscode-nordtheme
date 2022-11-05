@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.73.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/auryn31/vscode-nordtheme.git"
+  },
   "categories": [
     "Themes"
   ],
